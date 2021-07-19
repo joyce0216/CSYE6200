@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Boat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Boat_jar</output-path>
+    <root id="archive" name="Boat.jar">
+      <element id="module-output" name="Boat" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/designgridlayout-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/swing-layout-1.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
